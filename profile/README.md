@@ -41,6 +41,13 @@ We build game worlds using powerful tools:
 
 ### 🚀 Featured Projects
 
+#### 🌟 Universal Travel (Co-op 2Player)
+| Gameplay | Infomation |
+| :--- | :--- |
+| <img src="https://img.itch.zone/aW1nLzI1OTk5MTU2LmpwZw==/315x250%23c/pp%2Fh9W.jpg" width="300" alt="Gameplay Demo"/> <br> | **Category:** 2D Platformer<br>**Engine:** Unity<br>**Status:** Developing 🛠️<br><br>👉 **[Play now on Itch.io](https://meoleodeo.itch.io/universal-travel)** |
+
+---
+
 #### 🌟 Pixal Adventure 2D
 | Gameplay | Infomation |
 | :--- | :--- |
